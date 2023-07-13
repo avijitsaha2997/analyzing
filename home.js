@@ -1,1 +1,1 @@
-console.log("This is the Master branch");
+console.log("This is the Alpha branch");
