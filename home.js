@@ -1,1 +1,1 @@
-console.log("This is a home page");
+console.log("This is a my home page");
